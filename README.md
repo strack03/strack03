@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @strack03
 - 👀 I’m interested in all things code
-- 🌱 I’m currently learning python design patterns
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any opensource projects
 - 📫 Drop me a message on github
 
